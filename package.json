@@ -34,6 +34,9 @@
 	"svelte": "index.js",
 	"type": "module",
 	"dependencies": {
-		"node-sass": "^7.0.1"
+		"change-case": "^4.1.2",
+		"psc-svelte-library": "github:excalibur1987/psc-svelte-library",
+		"sass": "^1.49.9",
+		"scss": "^0.2.4"
 	}
 }
